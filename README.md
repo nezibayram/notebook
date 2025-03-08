@@ -2,6 +2,8 @@
 # This course introduced you to multiple data science tools, and in this final project, you will use Jupyterlite Notebook, one of the easiest tools to share publicly. 
 Leveraging Jupyterlite Notebook on Skills Network labs, you will create your Jupyterlite Notebook and share it via a public GitHub link.
 
+Exercise 1: Create a Jupyter Notebook and name it DataScienceandEcosystem.ipynb
+
 Exercise 2 - Create a markdown cell with the title of the notebook. 
 
 Exercise 3 - Create a markdown cell for an introduction. 
